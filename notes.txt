@@ -1,0 +1,9 @@
+dark mode at index page 23.30
+
+we use UAparser libarary to detext user device type.
+use React Qr Code gernator library to gernator QR code
+
+to fetch user location we use  const response = awiat fecth("https://ipapi.co/json");
+                               const {city ,country_name:country} = await response.json();
+
+for loaction chart we use "ReCharts" library  
